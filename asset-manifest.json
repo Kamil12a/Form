@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/budy/static/css/main.92f7e702.css",
-    "main.js": "/budy/static/js/main.cdb8bc8d.js",
+    "main.js": "/budy/static/js/main.7bbbad24.js",
     "static/media/logo.png": "/budy/static/media/logo.a40ce06fedbc9d800671.png",
     "index.html": "/budy/index.html",
     "main.92f7e702.css.map": "/budy/static/css/main.92f7e702.css.map",
-    "main.cdb8bc8d.js.map": "/budy/static/js/main.cdb8bc8d.js.map"
+    "main.7bbbad24.js.map": "/budy/static/js/main.7bbbad24.js.map"
   },
   "entrypoints": [
     "static/css/main.92f7e702.css",
-    "static/js/main.cdb8bc8d.js"
+    "static/js/main.7bbbad24.js"
   ]
 }
